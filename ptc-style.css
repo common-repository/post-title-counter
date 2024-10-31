@@ -1,0 +1,5 @@
+#ptc-container{height: 45px;}
+#ptc-count{font-size:4em;text-align:center;width: 50px;float:left;}
+#ptc-extra{float:right;margin: 15px 10px 10px;}
+#ptc-extra #clear-post-title{vertical-align: 60%;margin-left:15px;font-size:1.5em !important;}
+.ptc-over{color:#ff0000}
